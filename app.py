@@ -11,7 +11,7 @@ def process():
 
         # Fixed user details (replace with your own values)
         user_id = "Jackson_Solomon_David_15102003"
-        email = "jdavidsolomoncheruvathur@gmail.com"
+        email = "davidsolomoncheruvathur@gmail.com"
         roll_number = "22BCE1716"
 
         # Output arrays
