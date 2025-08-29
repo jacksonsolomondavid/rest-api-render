@@ -10,9 +10,9 @@ def process():
         arr = data.get("data", [])
 
         # Fixed user details (replace with your own values)
-        user_id = "john_doe_17091999"
-        email = "john@xyz.com"
-        roll_number = "ABCD123"
+        user_id = "Jackson_Solomon_David_15102003"
+        email = "jdavidsolomoncheruvathur@gmail.com"
+        roll_number = "22BCE1716"
 
         # Output arrays
         evens, odds, alphabets, specials = [], [], [], []
